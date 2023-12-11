@@ -1,0 +1,439 @@
+@media screen and (min-width:320px) and (max-width:570px) {
+    header
+    {
+        display: none;
+    }
+    .firstflex 
+    {
+        flex-direction: column;
+    }
+    .secondsection
+    {
+        height: unset;
+    }
+    .secondsection h3
+    {
+        padding-top: 20px;
+    }
+    .manimage
+    {
+        height: 150px;
+    }
+    .imagecontent h2
+    {
+        font-size: 12px;
+        padding-top: 10px;
+    }
+    .imagecontent p 
+    {
+        margin-top: 10px;
+        font-size: 12px;
+    }
+    .thirdsection h3
+    {
+        margin-top: 20px;
+    }
+    .helpflex
+    {
+        flex-direction: column;
+        margin-top: 10px;
+    }
+    .help 
+    {
+        margin-top: 20px;
+    }
+    .fourthsection h3
+    {
+        padding-top: 10px;
+    }
+    .resultflex
+    {
+        flex-direction: column;
+    }
+    .fourthsection
+    {
+        height: unset;
+    }
+    .helpbox
+    {
+        margin: 10px 0; 
+    }
+    .blog h3
+    {
+        margin-top: 20px;
+    }
+    .blogflex
+    {
+        flex-direction: column;
+    }
+    .blogimage
+    {
+        width: unset;
+    }
+    .sixthsection
+    {
+        height: unset;
+    }
+    .success
+    {
+        flex-direction: column;
+        margin: 0;
+    }
+    .success1
+    {
+        padding: 0;
+    }
+    .success2
+    {
+        margin: 0;
+    }
+    .block1
+    {
+        height: unset;
+        margin-top: 20px;
+    }
+    .successflex 
+    {
+        flex-direction: column;
+        margin-top: 10px;
+    }
+    .number {
+        /* height: 50px; */
+        /* width: 50px; */
+        border-radius: 50%;
+        background-color: #0cdd8d;
+        /* margin-right: 10px; */
+        margin: 10px;
+    }
+    .readybox
+    {
+        position: static;
+        margin-top: 10px;
+    }
+    .development
+    {
+        flex-direction: column;
+        height: unset;
+        
+        width: unset;
+        /* height: 160px; */
+    }
+    .developmentimage
+    {
+        height: unset;
+        margin: 10px;
+        width: 280px;
+    }
+    .developmentcontent h5
+    {
+        padding: 10px;
+    }
+    .developmentcontent h3
+    {
+        padding-top: unset;
+        font-size: 18px;
+        padding-left: 10px;
+    }
+    .developmentcontent p
+    {
+        padding: 10px;
+        text-align: left;
+    }
+    .developmentcontent button
+    {
+        margin: 0 0 10px 60px;
+    }
+    .featured
+    {
+        height: unset;
+    }
+    .featured h3
+    {
+        padding-top: 20px;
+    }
+    .featureflex
+    {
+        flex-direction: column;
+    }
+    .recent
+    {
+        height: unset;
+    }
+    .recent h3
+    {
+        padding-top: 20px;
+    }
+    .recentflex
+    {
+        flex-direction: column;
+        width: 95%;
+        margin: 10px auto;
+    }
+    .recentbox
+    {
+        height: unset;
+        margin: 10px 0;
+    }
+    .happyclient
+    {
+        flex-direction: column;
+        height: unset;
+        width: unset;
+    }
+    .happy
+    {
+        padding-top: 10px;
+    }
+    .background
+    {
+        height: unset;
+        width: unset;
+    }
+    .background h3
+    {
+        font-size: 20px;
+        padding-top: 20px;
+    }
+    .background h2
+    {
+        font-size: 22px;
+        padding-top: 10px;
+    }
+    .background p
+    {
+        text-align: center;
+        padding: 10px;
+    }
+    .form
+    {
+        flex-direction: column;
+        padding-top: 10px;
+    }
+    button
+    {
+        margin: 10px 0;
+    }
+    
+}
+@media screen and (min-width:570px) and (max-width:768px)
+{
+    header
+    {
+        display: none;
+    }
+    .firstflex 
+    {
+        flex-direction: column;
+    }
+    .secondsection
+    {
+        height: unset;
+    }
+    .secondsection h3
+    {
+        padding-top: 20px;
+    }
+    .manimage
+    {
+        height: 150px;
+    }
+    .imagecontent h2
+    {
+        font-size: 12px;
+        padding-top: 10px;
+    }
+    .imagecontent p 
+    {
+        margin-top: 10px;
+        font-size: 12px;
+    }
+    .thirdsection h3
+    {
+        margin-top: 20px;
+    }
+    .helpflex
+    {
+        flex-direction: column;
+        margin-top: 10px;
+    }
+    .help 
+    {
+        margin-top: 20px;
+    }
+    .fourthsection h3
+    {
+        padding-top: 10px;
+    }
+    .resultflex
+    {
+        flex-direction: column;
+    }
+    .fourthsection
+    {
+        height: unset;
+    }
+    .helpbox
+    {
+        margin: 10px 0; 
+    }
+    .blog h3
+    {
+        margin-top: 20px;
+    }
+    .blogflex
+    {
+        flex-direction: column;
+    }
+    .blogimage
+    {
+        width: unset;
+    }
+    .sixthsection
+    {
+        height: unset;
+    }
+    .success
+    {
+        flex-direction: column;
+        margin: 0;
+        height: unset;
+        margin-bottom: 10px;
+    }
+    .success1
+    {
+        padding: 0;
+        padding-bottom: 10px;
+    }
+    .success2
+    {
+        margin: 0;
+    }
+    .block1
+    {
+        height: unset;
+        /* margin-top: 20px; */
+        margin: 20px auto;
+    }
+    .successflex 
+    {
+        flex-direction: column;
+        margin-top: 10px;
+    }
+    .number {
+        /* height: 50px; */
+        /* width: 50px; */
+        border-radius: 50%;
+        background-color: #0cdd8d;
+        /* margin-right: 10px; */
+        margin: 10px;
+    }
+    .readybox
+    {
+        position: static;
+        margin-top: 10px;
+        margin: auto;
+    }
+    .development
+    {
+        flex-direction: column;
+        height: unset;
+        
+        width: unset;
+        /* height: 160px; */
+    }
+    .developmentimage
+    {
+        height: unset;
+        margin: 10px;
+        width: 280px;
+    }
+    .developmentcontent h5
+    {
+        padding: 10px;
+    }
+    .developmentcontent h3
+    {
+        padding-top: unset;
+        font-size: 18px;
+        padding-left: 10px;
+    }
+    .developmentcontent p
+    {
+        padding: 10px;
+        text-align: left;
+    }
+    .developmentcontent button
+    {
+        margin: 0 0 10px 60px;
+    }
+    .featured
+    {
+        height: unset;
+    }
+    .featured h3
+    {
+        padding-top: 20px;
+    }
+    .featureflex
+    {
+        flex-direction: column;
+    }
+    .recent
+    {
+        height: unset;
+    }
+    .recent h3
+    {
+        padding-top: 20px;
+    }
+    .recentflex
+    {
+        flex-direction: column;
+        width: 95%;
+        margin: 10px auto;
+    }
+    .recentbox
+    {
+        height: unset;
+        margin: 10px 0;
+    }
+    .happyclient
+    {
+        flex-direction: column;
+        height: unset;
+        width: unset;
+    }
+    .happy
+    {
+        padding-top: 10px;
+    }
+    .background
+    {
+        height: unset;
+        width: unset;
+    }
+    .background h3
+    {
+        font-size: 20px;
+        padding-top: 20px;
+    }
+    .background h2
+    {
+        font-size: 22px;
+        padding-top: 10px;
+    }
+    .background p
+    {
+        text-align: center;
+        padding: 10px;
+    }
+    .form
+    {
+        flex-direction: column;
+        padding-top: 10px;
+    }
+    button
+    {
+        margin: 10px 0;
+    }
+}
